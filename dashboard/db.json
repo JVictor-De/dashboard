@@ -1,0 +1,49 @@
+{
+  "emotions": [
+    {
+      "data": "01-06-2025",
+      "anger": 2,
+      "surprise": 10,
+      "happiness": 20,
+      "sadness": 5,
+      "curso": "ADS",
+      "matricula": 1234567890
+    },
+    {
+      "data": "02-06-2025",
+      "anger": 7,
+      "surprise": 5,
+      "happiness": 15,
+      "sadness": 8,
+      "curso": "ES",
+      "matricula": 9876543210
+    },
+    {
+      "data": "03-06-2025",
+      "anger": 3,
+      "surprise": 12,
+      "happiness": 8,
+      "sadness": 18,
+      "curso": "DR",
+      "matricula": 1928374650
+    },
+    {
+      "data": "04-06-2025",
+      "anger": 9,
+      "surprise": 4,
+      "happiness": 25,
+      "sadness": 2,
+      "curso": "ADS",
+      "matricula": 1122334455
+    },
+    {
+      "data": "05-06-2025",
+      "anger": 1,
+      "surprise": 7,
+      "happiness": 10,
+      "sadness": 12,
+      "curso": "ES",
+      "matricula": 5566778899
+    }
+  ]
+}
